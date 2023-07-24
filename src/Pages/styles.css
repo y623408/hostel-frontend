@@ -1,0 +1,11 @@
+/* styles.css */
+@media (max-width: 360px) {
+    /* Adjust the headingOptions for mobile devices */
+    .MuiTypography-root {
+      left: 50% !important;
+      top: 80% !important;
+      transform: translate(-50%, -50%) !important;
+      padding: 1rem !important;
+      font-size: 1.5rem !important;
+    }
+  }

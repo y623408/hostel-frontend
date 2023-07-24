@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba8f84ed.css",
+    "main.js": "/static/js/main.04df9715.js",
+    "static/media/adminimage.png": "/static/media/adminimage.ebc7561f0e0e311885fd.png",
+    "static/media/Image3.jpg": "/static/media/Image3.98a826d974a4d747d1f7.jpg",
+    "static/media/bitlogo.png": "/static/media/bitlogo.7be75dfe73f8c30b7265.png",
+    "static/media/Image1.jpg": "/static/media/Image1.eeae5338289c177ce979.jpg",
+    "static/media/Image2.jpeg": "/static/media/Image2.555e3202be1ba3ae14df.jpeg",
+    "index.html": "/index.html",
+    "main.ba8f84ed.css.map": "/static/css/main.ba8f84ed.css.map",
+    "main.04df9715.js.map": "/static/js/main.04df9715.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba8f84ed.css",
+    "static/js/main.04df9715.js"
+  ]
+}

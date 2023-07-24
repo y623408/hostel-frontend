@@ -1,0 +1,7 @@
+export const USER_LOGIN="USER_LOGIN"
+export const GET_USER_LIST="GET_USER_LIST"
+export const USER_REG="USER_REG"
+export const USER_INSERT_ISSUE="USER_INSERT_ISSUE"
+export const GET_USER_ISSUE="GET_USER_ISSUE"
+export const ADMIN_LOGIN="ADMIN_LOGIN"
+export const GET_ADMIN_ISSUE="GET_ADMIN_ISSUE"
